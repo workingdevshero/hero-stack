@@ -1,0 +1,25 @@
+{
+  "name": "hero-stack",
+  "version": "1.0.0",
+  "description": "placeholder site for herostack.ai",
+  "main": "index.html",
+  "scripts": {
+    "start": "http-server ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/workingdevshero/hero-stack.git"
+  },
+  "keywords": [
+    "hero"
+  ],
+  "author": "@workingdevshero",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/workingdevshero/hero-stack/issues"
+  },
+  "homepage": "https://github.com/workingdevshero/hero-stack#readme",
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}

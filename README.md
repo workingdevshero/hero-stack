@@ -1,2 +1,3 @@
-# hero-stack
-Placeholder website for herostack.ai
+<p style="text-align: center;">
+    <img src="./img/logo-small.png" />
+</p>

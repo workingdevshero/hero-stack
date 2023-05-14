@@ -1,0 +1,18 @@
+body {
+    display: flex;
+    background-color: #2c0732;
+    justify-content: center;
+    vertical-align: middle;
+    height: 100vh;
+}
+
+div {
+    display: flex;
+    align-items: center;
+    height: 100%;
+}
+
+img {
+    max-height: 320px;
+    display: inline-block;
+}
